@@ -45,6 +45,8 @@ ___
 8. The password is shuffled to avoid predictable patterns.
 9. The password is displayed along with a strength rating.
 
+This project demonstrates secure password generation using python
+
 ___
 
 ## 🧪 Example Output
