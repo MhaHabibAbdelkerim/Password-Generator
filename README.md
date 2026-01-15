@@ -61,6 +61,7 @@ Your password is: A7k!p2Z@Qe
 This is a strong password.
 
 ```
+___ 
 
 ## 🔒 Password Strength Criteria
 
@@ -71,11 +72,15 @@ This is a strong password.
     * Moderate:	Length ≥ 7 AND ≥ 2 character types
 
     * Weak:	Meets minimum rules but low diversity
- 
+
+___
+
 ## 🛠️ Future Improvements
 
 * Regenerate password option
 * Make it a streamlit App
+
+___
 
 ## 👤 Author
 
